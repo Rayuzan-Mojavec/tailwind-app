@@ -9,7 +9,7 @@
                 <div class="w-full h-full bg-[url('/public/oigh.jpg')] bg-cover bg-center border-none">
                 </div>
             </div>
-            <div class="py-7 px-7">
+            <div class="py-8 px-8">
                 <div class="text-6xl font-bold mb-5 pb-5">Apa yang melakukan apa tetapi jalan 3 mil laut ke Tokyo Dome untuk Iran berjaya</div>
 
                 <p class="whitespace-pre-line">
@@ -44,8 +44,8 @@
                 </p>
 
                 <div class="mt-5 pt-5 flex justify-evenly">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_VPTdNTu0Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QgYMi6vcqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_VPTdNTu0Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-xl"></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QgYMi6vcqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-xl"></iframe>
                 </div>
             </div>
         </div>
