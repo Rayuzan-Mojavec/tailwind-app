@@ -20,6 +20,33 @@
                     Dusta nirfaedah halayak zamrud koalitif wakil rintis kuasa fana lugas entitas gentar mudharat intisari hina untaian suruh bagi homologasi terharu nyonya lambang heran transaksi independen empati karena delapan puji mortifikasi rundung alias sindikat makar guyonan terikat pantul joglo vokal Mentawai langit ikat mahir laksana empati sirat gali nadi otodidak kardio lampu tulis gala napi sukar delegasi muntah handal.
                 </p>
 
+                <p class="whitespace-pre-line text-4xl text-center font-semibold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Selalu hindari Hutan
+                </p>
+
+                <div class="mt-5 pt-5 flex justify-evenly">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_VPTdNTu0Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QgYMi6vcqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
             </div>
         </div>
     </div>
