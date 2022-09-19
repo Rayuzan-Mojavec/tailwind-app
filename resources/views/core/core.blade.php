@@ -11,7 +11,7 @@
 
     <link rel="icon" href="{{ asset('hey.png') }}">
 
-    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+    <script src="{{ url('https://code.jquery.com/jquery-3.6.1.js') }}" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
         crossorigin="anonymous"></script>
 
 </head>
@@ -47,6 +47,36 @@
     </div>
 
     @yield('main-part')
+
+
+
+    <footer class="text-center text-white bg-[#f1f1f1] dark:bg-slate-900">
+        <div class="container py-9 mx-auto shadow-2xl">
+          <div class="flex justify-center">
+            <a href="#!" class="mx-3">
+                <i class="bi bi-youtube text-red-600 text-2xl"></i>
+            </a>
+            <a href="#!" class="mx-3">
+            </a>
+            <a href="#!" class="mx-3">
+             
+            </a>
+            <a href="#!" class="mx-3">
+              
+            </a>
+            <a href="#!" class="mx-3">
+              
+            </a>
+            <a href="#!" class="mx-3">
+              
+            </a>
+          </div>
+        </div>
+      
+        <div class="text-center text-gray-700 dark:text-white p-4 bg-[#f1f1f1] dark:bg-slate-900">
+          © 2021 Copyright:
+        </div>
+      </footer>
 
     <script>
         const checkbox = document.querySelector('#toggle');
