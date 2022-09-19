@@ -19,12 +19,12 @@
 <body class="dark:bg-slate-800">
 
 
-    <nav class="flex flex-row text-left justify-center py-4 px-6 bg-gray-200 shadow-xl items-baseline w-full">
-        <div class="mx-5">
-            <a href="/" class="text-xl text-black font-bold">Home</a>
+    <nav class="flex flex-row text-left justify-center py-4 px-6 dark:bg-slate-900 bg-gray-200 shadow-xl items-baseline w-full">
+        <div class="mx-5 ">
+            <a href="/" class="text-xl text-black dark:text-slate-200 font-bold">Home</a>
         </div>
-        <div class="mx-5">
-            <a href="/about" class="text-xl text-black font-bold">About</a>
+        <div class="mx-5 ">
+            <a href="/about" class="text-xl text-black  dark:text-slate-200 font-bold">About</a>
         </div>
     </nav>
 
