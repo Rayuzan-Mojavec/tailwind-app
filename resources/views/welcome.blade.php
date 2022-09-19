@@ -102,7 +102,7 @@
         negrara yang harus dijajah:</span>
     <div class="columns-4">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
+            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right transition-all">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
             class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
         <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
@@ -134,14 +134,14 @@
 
 <div class="mx-auto container my-16 px-8">
     <div
-        class="rounded-3xl border-4 border-slate-700 overflow-hidden dark:text-white dark:border-white dark:shadow-2xl">
+        class="group rounded-3xl border-4 border-slate-700 overflow-hidden dark:text-white dark:border-white dark:shadow-2xl">
 
         <img src="https://static.republika.co.id/uploads/images/inpicture_slide/kota-tripoli-_120903125657-131.jpg"
             alt="" class="rounded-3xl w-full p-10">
         <div class="py-7 px-7">
             <div class="text-6xl font-bold mb-5 pb-5">Ningenisasi</div>
 
-            <p class="text-small whitespace-pre-line">
+            <p class="text-small whitespace-pre-line group-hover:animate-spin">
 
                 In the name of the African Union, I would like to greet the members of the General Assembly of the United Nations, and I hope that this meeting will be among the most historic in the history of the world.
 
@@ -293,7 +293,7 @@
 </div>
 
 
-<div class="my-64 p-2 md:p-6 grid grid-cols-2 gap-3 md:grid-cols-5">
+<div class="my-64 p-2 md:p-6 grid grid-cols-2 gap-3 md:grid-cols-5 dark:text-white">
     <h2 class="h-15 font-bold md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-3">Untuk
         penerbangan tertartor</h2>
     <div class="h-15 overflow-hidden text-clip md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-4">
