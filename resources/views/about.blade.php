@@ -43,10 +43,10 @@
                     Selalu hindari Hutan
                 </p>
 
-                <div class="mt-5 pt-5 gap-6 justify-evenly flex flex-wrap">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_VPTdNTu0Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-xl"></iframe>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QgYMi6vcqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-xl"></iframe>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Lv2Mamlg0ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-xl"></iframe>
+                <div class="mt-5 pt-5 gap-6 justify-center flex flex-wrap">
+                    <iframe  src="https://www.youtube.com/embed/_VPTdNTu0Zw" class="rounded-xl w-2/5 aspect-video" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+                    <iframe  src="https://www.youtube.com/embed/2QgYMi6vcqQ" class="rounded-xl w-2/5 aspect-video" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+                    <iframe  src="https://www.youtube.com/embed/Lv2Mamlg0ZE" class="rounded-xl w-2/5 aspect-video" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
                 </div>
             </div>
         </div>
