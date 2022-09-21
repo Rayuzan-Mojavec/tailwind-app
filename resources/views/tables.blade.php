@@ -22,7 +22,7 @@
                 @endforeach
             </tbody>
         </table>
-        <div class="mt-10">
+        <div class="mt-10 text-black">
             {{ $people->links() }}
         </div>
     </div>
