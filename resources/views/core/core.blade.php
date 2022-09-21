@@ -16,7 +16,7 @@
 
 </head>
 
-<body class="dark:bg-slate-800">
+<body class="dark:bg-slate-800 font-google">
 
 
     <nav class="flex flex-row text-left justify-center py-4 px-6 dark:bg-slate-900 bg-gray-200 shadow-xl items-baseline w-full">

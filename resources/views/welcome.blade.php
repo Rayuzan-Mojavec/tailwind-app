@@ -20,8 +20,8 @@
         Ali, Demi Husayn</a>
 </div>
 
-<div class="transition-all h-auto items-center max-w-7xl mx-auto mb-28 bg-[#EB2854] hover:bg-sky-500 p-5 block justify-center border-8 border-black rounded-2xl group">
-    <span class="text-4xl text-white py-3 selection:bg-blue-800 selection:text-white invisible group-hover:visible group-hover:text-black group-hover:blur-none font-serif first-letter:text-8xl first-letter:font-bold">
+<div class="transition-all h-auto text-center items-center max-w-7xl mx-auto mb-28 bg-[#EB2854] hover:bg-sky-500 p-5 block justify-center border-8 border-black rounded-2xl group">
+    <span class="text-4xl text-white py-3 text-center selection:bg-blue-800 selection:text-white invisible group-hover:visible group-hover:text-black group-hover:blur-none font-serif first-letter:text-8xl first-letter:font-bold">
         Wieniläinen siouxia puhuva ökyzombi diggaa Åsan roquefort-tacoja</span>
 </div>
 
