@@ -1,1 +1,3 @@
-Oi jangan dibaca oi
+<div class="text-center">
+Please migrate first
+</div>
