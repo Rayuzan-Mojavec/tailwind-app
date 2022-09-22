@@ -54,10 +54,10 @@
     </div>
 </div>
 
-<div class="mx-auto my-48 container dark:text-white sm:max-w-5xl">
+<div class="mx-auto my-48 container-sm dark:text-white max-w-7xl">
     <div class=" border p-10 shadow-xl group dark:shadow-none rounded">
 
-        <span class="flex text-4xl text-center justify-center font-bold group-hover:animate-spin">Muammar
+        <span class="flex text-4xl text-center justify-center font-bold">Muammar
             Gaddafi</span>
 
 
@@ -65,7 +65,7 @@
             width="170" class="float-left mr-3 mt-5 group-hover:animate-pulse">
 
 
-        <p class="mt-5 group-hover:animate-spin">Muammar Muhammad Abu Minyar al-Gaddafi[b] (Arabic: مُعمّر محمد عبد
+        <p class="mt-5">Muammar Muhammad Abu Minyar al-Gaddafi[b] (Arabic: مُعمّر محمد عبد
             السلام القذّافي,
             c. 1942 – 20 October
             2011) was a Libyan revolutionary, politician and political theorist. He was the de facto leader of Libya
@@ -74,7 +74,7 @@
             Initially ideologically committed to Arab nationalism and Arab socialism, he later ruled according to
             his own Third International Theory.</p>
 
-        <p class="mt-5 group-hover:animate-spin"> Born near Sirte, Italian Libya, to a poor Bedouin family, Gaddafi
+        <p class="mt-5"> Born near Sirte, Italian Libya, to a poor Bedouin family, Gaddafi
             became an Arab
             nationalist while at
             school in Sabha, later enrolling in the Royal Military Academy, Benghazi. Within the military, he
@@ -139,7 +139,7 @@
         <div class="py-7 px-7">
             <div class="text-6xl font-bold mb-5 pb-5">Ningenisasi</div>
 
-            <p class="text-small whitespace-pre-line group-hover:animate-spin">
+            <p class="text-small whitespace-pre-line">
 
                 In the name of the African Union, I would like to greet the members of the General Assembly of the United Nations, and I hope that this meeting will be among the most historic in the history of the world.
 
@@ -292,87 +292,92 @@
 
 
 <div class="my-64 p-2 md:p-6 grid grid-cols-2 gap-3 md:grid-cols-5 dark:text-white">
-    <h2 class="h-15 font-bold md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-3">Untuk
+    <div class="group relative hover:scale-90 duration-500 transition-all h-15 overflow-hidden text-clip md:aspect-[5/3] aspect-[3/5]  md:col-start-4 md:row-start-3">
+        <h2 class="font-bold absolute group-hover:scale-150 transition-all duration-500">Untuk
         penerbangan tertartor</h2>
-    <div class="h-15 overflow-hidden text-clip md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-4">
-        MENGAPA TERBANG ITU JATUH KE TEBING BALALAIKA</div>
+    </div>
+    <div class="group relative hover:scale-90 duration-500 transition-all h-15 overflow-hidden text-clip md:aspect-[5/3] aspect-[3/5] md:col-start-2 md:row-start-4">
+        <div class="absolute group-hover:scale-150 transition-all duration-500">
+            MENGAPA TERBANG ITU JATUH KE TEBING BALALAIKA
+        </div>
+    </div>
 
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-4 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-4 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-5 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-5 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-5 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-5 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-3 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-3 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-5 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-5 overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-green-700 md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
-            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('https://source.unsplash.com/720x600')] bg-cover bg-center">
+            class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
 </div>

@@ -13,6 +13,7 @@ module.exports = {
 
       fontFamily: {
         google: ["Google", "cursive"],
+        japanese: ["Japan", "sans-serif"]
       },
 
     },

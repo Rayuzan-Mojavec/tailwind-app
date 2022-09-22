@@ -6,3 +6,8 @@
     font-family: "Google";
     src: url("/public/font/Google.ttf");
   }
+
+  @font-face {
+    font-family: "Japan";
+    src: url("/public/font/meiryo.ttc");
+  }
