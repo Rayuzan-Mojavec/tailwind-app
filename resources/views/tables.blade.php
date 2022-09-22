@@ -1,9 +1,9 @@
 @extends('core.core')
 
 @section('main-part')
-    <div class="my-32 mx-auto  rounded-xl px-16">
-        <table class="w-full text-sm overflow-auto  text:black dark:text-white rounded-xl mx-auto">
-            <thead class="text-md bg-gray-100 dark:bg-slate-500 text-basic font-pop">
+    <div class="mt-32 mx-10 flex text-center justify-center overflow-x-auto relative border-2 rounded-2xl">
+        <table id="example" class="w-full text-sm rounded-2xl text:black dark:text-white  mx-auto">
+            <thead class="text-md  bg-gray-100 dark:bg-slate-500">
                 <tr>
                     <th class="border py-3 px-6">ID番号</th>
                     <th class="border py-3 px-6">名前</th>
@@ -22,9 +22,11 @@
                 @endforeach
             </tbody>
         </table>
-        <div class="mt-10 text-black dark:text-white">
-            {{ $people->links() }}
-        </div>
+
+    </div>
+
+    <div class="mt-10 mb-32 mx-10 text-black dark:text-white">
+        {{ $people->links() }}
     </div>
 
 @endsection

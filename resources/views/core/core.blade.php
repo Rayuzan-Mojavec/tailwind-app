@@ -14,6 +14,8 @@
     <script src="{{ url('https://code.jquery.com/jquery-3.6.1.js') }}" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
         crossorigin="anonymous"></script>
 
+    <link rel="stylesheet" href="{{ asset('js/DataTable_Jquery.js') }}">
+
 </head>
 
 <body class="dark:bg-slate-800 font-google">
@@ -79,15 +81,7 @@
         </div>
       </footer>
 
-    <script>
-        const checkbox = document.querySelector('#toggle');
-        const html = document.querySelector('html');
 
-        checkbox.addEventListener('click', function() {
-            checkbox.checked ? html.classList.add('dark') : html.classList.remove('dark');
-
-        });
-    </script>
 </body>
 
 </html>
