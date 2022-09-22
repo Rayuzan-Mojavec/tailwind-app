@@ -14,7 +14,7 @@
     <script src="{{ url('https://code.jquery.com/jquery-3.6.1.js') }}"
         integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="{{ asset('js/DataTable_Jquery.js') }}">
+    {{-- <script src="{{ asset('js/DataTable_Jquery.js') }}"></script> --}}
 
 </head>
 

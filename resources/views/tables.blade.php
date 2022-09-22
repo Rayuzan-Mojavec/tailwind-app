@@ -1,8 +1,8 @@
 @extends('core.core')
 
 @section('main-part')
-    <div class="mt-32 mx-10 flex text-center justify-center overflow-x-auto relative border-2 rounded-2xl">
-        <table class="w-full text-sm rounded-2xl text-black dark:text-white table-auto mx-auto">
+    <div class="mt-32 mx-10 flex text-center justify-center overflow-x-auto relative  rounded-2xl">
+        <table id="example" class="w-full text-sm rounded-2xl text-black dark:text-white table-auto mx-auto">
             <thead class="text-md  bg-gray-100 dark:bg-slate-500">
                 <tr>
                     <th class="border py-3 px-6">ID番号</th>
@@ -28,4 +28,6 @@
     <div class="mt-10 mb-32 mx-10 text-black dark:text-white">
         {{ $people->links() }}
     </div>
+
+
 @endsection
