@@ -17,7 +17,7 @@
 
 </head>
 
-<body class="dark:bg-slate-800 font-japanese">
+<body class="dark:bg-slate-800 font-japanese transition-all duration-500">
 
 
     @include('core.header')

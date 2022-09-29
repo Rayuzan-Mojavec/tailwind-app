@@ -93,7 +93,7 @@
 
 </div>
 
-<div class="group mx-auto max-w-5xl my-44 p-10 border justify-center  rounded-lg shadow-2xl bg-slate-200">
+<div class="group mx-auto max-w-5xl my-44 p-10 border justify-center rounded-lg shadow-2xl bg-slate-200 dark:bg-black transition-all">
 
     <span
         class="flex justify-center text-center dark:text-white text-6xl font-bold mb-7 pb-7 border-none">Daftar
@@ -315,79 +315,79 @@
     </div>
 
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-4 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-4 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-5 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-5 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-5 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-5 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-3 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-3 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-5 overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-5 overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
     </div>
     <div
-        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+        class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
         <div
             class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
         </div>
