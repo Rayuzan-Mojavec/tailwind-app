@@ -146,7 +146,11 @@
         <div class="columns-1 flex justify-center">
             <img src="{{ asset('hey.png') }}" alt="" width="500" class="text-black">
         </div>
-        <div class="mt-6 text-center text-3xl dark:text-white">Van Hagar</div>
+        <div class="mt-6 text-center font-semibold text-3xl dark:text-white transition duration-500">Van Hagar</div>
+        <div class="mt-6 text-center text-3xl dark:text-white transition duration-500">5150</div>
+        <div class=" text-center text-3xl dark:text-white transition duration-500">OU812</div>
+        <div class=" text-center text-3xl dark:text-white transition duration-500">F. U. C. K.</div>
+        <div class=" text-center text-3xl dark:text-white transition duration-500">Balance</div>
     </div>
 
 

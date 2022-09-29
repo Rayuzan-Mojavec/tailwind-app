@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ asset('css/Icon.css') }}">
     <title>Ningen Sastrawijaya</title>
 
-    <link rel="icon" href="{{ asset('hey.png') }}">
+    <link rel="icon" href="{{ asset('yeh.webp') }}">
 
     <script src="{{ asset('js/Jquery.js') }}"></script>
     <script src="{{ asset('js/Icon.js') }}"></script>
@@ -17,7 +17,7 @@
 
 </head>
 
-<body class="dark:bg-slate-800 font-japanese transition-all duration-500">
+<body class="dark:bg-slate-800 font-japanese transition-all antialiased duration-500">
 
 
     @include('core.header')
