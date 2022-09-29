@@ -16,6 +16,9 @@
             <a href="https://github.com/Rayuzan-Mojavec" class="mx-3" target="_blank">
                 <x-bi-github class=" text-black dark:text-white w-6 h-6" />
             </a>
+            <a href="https://www.reddit.com/user/Rayuzan_Mojavec" class="mx-3" target="_blank">
+                <x-bi-reddit class=" text-[#FF4500] w-6 h-6" />
+            </a>
             <a href="https://discord.gg/GNqJ7Q2PCn" class="mx-3" target="_blank">
                 <x-bi-discord class=" text-[#7289DA] w-6 h-6" />
             </a>
