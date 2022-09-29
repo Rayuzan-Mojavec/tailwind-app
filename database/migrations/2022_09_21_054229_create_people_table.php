@@ -16,6 +16,8 @@ return new class extends Migration
         Schema::create('people', function (Blueprint $table) {
             $table->string('ssn', 18)->unique();
             $table->string('namae', 100)->nullable();
+            $table->string('gender', 100)->nullable();
+            $table->string('rerijyon', 100)->nullable();
             $table->string('address', 255)->nullable();
             $table->date('birth_date')->nullable();
         });
