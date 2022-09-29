@@ -5,16 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
-    <link rel="stylesheet"
-        href="{{ url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css') }}">
+
+    <link rel="stylesheet" href="{{ asset('css/Icon.css') }}">
     <title>Ningen Sastrawijaya</title>
 
     <link rel="icon" href="{{ asset('hey.png') }}">
 
-    <script src="{{ url('https://code.jquery.com/jquery-3.6.1.js') }}"
-        integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+    <script src="{{ asset('js/Jquery.js') }}"></script>
+    <script src="{{ asset('js/Icon.js') }}"></script>
 
-    {{-- <script src="{{ asset('js/DataTable_Jquery.js') }}"></script> --}}
 
 </head>
 
@@ -36,6 +35,8 @@
             checkbox.checked ? html.classList.add('dark') : html.classList.remove('dark');
 
         });
+
+        feather.replace();
     </script>
 </body>
 

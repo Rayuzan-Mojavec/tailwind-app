@@ -93,7 +93,7 @@
 
 </div>
 
-<div class="group mx-auto max-w-5xl my-44 p-10 border justify-center  rounded-lg shadow-2xl bg-slate-100">
+<div class="group mx-auto max-w-5xl my-44 p-10 border justify-center  rounded-lg shadow-2xl bg-slate-200">
 
     <span
         class="flex justify-center text-center dark:text-white text-6xl font-bold mb-7 pb-7 border-none">Daftar
