@@ -93,36 +93,48 @@
 
 </div>
 
-<div class="group mx-auto max-w-5xl my-44 p-10 border justify-center  rounded-lg shadow-2xl">
+<div class="group mx-auto max-w-5xl my-44 p-10 border justify-center  rounded-lg shadow-2xl bg-slate-100">
 
     <span
-        class="flex justify-center text-center dark:text-white text-6xl font-bold mb-7 pb-7 shadow-xl border-none">Daftar
+        class="flex justify-center text-center dark:text-white text-6xl font-bold mb-7 pb-7 border-none">Daftar
         negrara yang harus dijajah:</span>
     <div class="columns-4">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right transition-all">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
-        <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-top-right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-bottom-left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-bottom-left">
-        <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-bottom-left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-bottom-left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-bottom-left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
-            class="mb-5 border-2 border-black rounded-lg group-hover:animate-spin origin-bottom-left">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+            class="mb-5  rounded-lg">
+
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
+            class="mb-5  rounded-lg">
+
+            <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+            class="mb-5  rounded-lg">
+
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+            class="mb-5  rounded-lg">
+
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+            class="mb-5  rounded-lg">
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+            class="mb-5  rounded-lg">
+        
     </div>
 </div>
 
