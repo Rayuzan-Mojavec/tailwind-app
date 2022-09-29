@@ -8,7 +8,7 @@
                 <x-bi-facebook class=" text-[#1778f2] w-6 h-6  rounded"/>
             </a>
             <a href="https://www.instagram.com/rayuzan_m/" class="mx-3" target="_blank">
-                <x-bi-instagram class=" text-white transition bg-[url('/public/ins.jpg')] bg-auto bg-no-repeat bg-center border-2 rounded-lg border-transparent w-6 h-6"/>
+                <x-bi-instagram class=" text-white transition bg-[url('/public/ins.jpg')] bg-[length:24px_24px] bg-no-repeat bg-center border-2 rounded-lg border-transparent w-6 h-6"/>
             </a>
             <a href="https://twitter.com/Rayuzan_M" class="mx-3" target="_blank">
                 <x-bi-twitter class=" text-[#1DA1F2] w-6 h-6  rounded"/>
