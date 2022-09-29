@@ -19,12 +19,13 @@ class PeopleFactory extends Factory
     public function definition()
     {
         
+        $faker3 = Language::create('id_ID');
         $faker2 = Language::create('ja_JP');
 
         return [
-            'ssn' => fake()->ssn,
-            'namae' => $faker2->name,
-            'address' => $faker2->address,
+            'ssn' => $faker3->nik,
+            'namae' => $faker3->name,
+            'address' => $faker3->address,
             'birth_date' => fake()->unique()->dateTimeBetween($startDate = '-19 years', $endDate = '-17 years', $timezone = null, $time = null),
         ];
 
