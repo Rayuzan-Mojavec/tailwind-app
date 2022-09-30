@@ -7,7 +7,7 @@
     @vite('resources/css/app.css')
 
     <link rel="stylesheet" href="{{ asset('css/Icon.css') }}">
-    <title>Ningen Sastrawijaya</title>
+    <title>Ningen Sastrawijaya | {{ $title }}</title>
 
     <link rel="icon" href="{{ asset('yeh.webp') }}">
 

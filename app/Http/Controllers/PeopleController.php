@@ -15,7 +15,7 @@ class PeopleController extends Controller
     public function index()
     {
         $people = People::paginate(25);
-        return view('tables', compact('people'));
+        return view('tables', compact('people'), ['title' => "Tables"]);
     }
 
     /**
