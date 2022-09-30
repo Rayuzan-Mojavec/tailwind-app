@@ -4,7 +4,6 @@
 @section('main-part')
 
 
-<div class="p-1">
     <div class="container mx-auto flex mt-32 justify-center items-center">
         <div class="flex justify-center">
             <span
@@ -405,7 +404,6 @@
             </div>
         </div>
     </div>
-</div>
 
 
 
