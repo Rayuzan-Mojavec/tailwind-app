@@ -18,11 +18,30 @@ class PeopleController extends Controller
         return view('tables', compact('people'), ['title' => "Tables"]);
     }
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
+
+    public function search(Request $request)
+    {
+        $output = "";
+        $people = People::where('namae', 'LIKE', '%' . $request->search . '%')->orwhere('address', 'LIKE', '%' . $request->search . '%')->get();
+
+        foreach ($people as $person) {
+            $output .=
+                '<tr class="border">
+                
+                <td class="py-4 px-6 border"> '.$person->ssn.' </td>
+                <td class="py-4 px-6 border"> '.$person->namae.' </td>
+                <td class="py-4 px-6 border"> '.$person->gender.' </td>
+                <td class="py-4 px-6 border"> '.$person->rerijyon.' </td>
+                <td class="py-4 px-6 border"> '.$person->address.' </td>
+                <td class="py-4 px-6 border"> '.$person->date().' </td>
+        </tr>';
+        }
+
+        return response($output);
+    }
+
+
+
     public function create()
     {
         //

@@ -99,40 +99,40 @@
             negrara yang harus dijajah:</span>
         <div class="columns-6">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:rotate-12 transition duration-300">
 
                 <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:-rotate-12 transition duration-300">
 
                 <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:-rotate-12 transition duration-300">
 
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:rotate-12 transition duration-300">
 
                 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:rotate-12 transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:-rotate-12 transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:-rotate-12 transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:rotate-12 transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:rotate-12 border-none transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:-rotate-12 transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:-rotate-12 transition duration-300">
             
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
-                class="mb-5  rounded-lg">
+                class="mb-5 rounded-lg hover:scale-125 hover:rotate-12 transition duration-300">
             
         </div>
     </div>
@@ -326,81 +326,81 @@
         </div>
 
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-4 overflow-hidden">
+            class="vim group md:col-start-4 md:row-start-4">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 md:row-start-5 overflow-hidden">
+            class="vim group md:col-start-2 md:row-start-5">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+            class="vim group">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 md:row-start-5 overflow-hidden">
+            class="vim group md:col-start-4 md:row-start-5">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-4 overflow-hidden">
+            class="vim group md:col-start-4">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+            class="vim group ">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+            class="vim group ">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-3 overflow-hidden">
+            class="vim group  md:col-start-3 ">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-2 overflow-hidden">
+            class="vim group  md:col-start-2 ">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+            class="vim group  ">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] md:col-start-5 overflow-hidden">
+            class="vim group md:col-start-5">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+            class="vim group">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
         <div
-            class="group relative hover:scale-90 transition-all duration-500 h-15 bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] overflow-hidden">
+            class="vim group">
             <div
-                class="absolute group-hover:scale-150 transition-all duration-500 w-full h-full bg-[url('/public/5150.jpg')] bg-contain bg-no-repeat  bg-center">
+                class="vam bg-[url('/public/5150.jpg')]">
             </div>
         </div>
     </div>

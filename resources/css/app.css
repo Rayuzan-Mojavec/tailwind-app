@@ -1,6 +1,7 @@
 @import "bootstrap-icons/font/bootstrap-icons.css";
 
 
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,11 +9,22 @@
 
 
 @font-face {
-    font-family: "Google";
-    src: url("/public/font/Google.ttf");
+  font-family: "Google";
+  src: url("/public/font/Google.ttf");
+}
+
+@font-face {
+  font-family: "Japan";
+  src: url("/public/font/meiryo.ttc");
+}
+
+@layer components {
+  .vim {
+    @apply relative hover:scale-90 transition-all duration-500  bg-transparent dark:bg-white border-transparent border dark:border-black md:aspect-[5/3] rounded-xl aspect-[3/5] 
+    overflow-hidden;
   }
 
-  @font-face {
-    font-family: "Japan";
-    src: url("/public/font/meiryo.ttc");
+  .vam {
+    @apply absolute group-hover:scale-150 transition-all duration-500 w-full h-full  bg-contain bg-no-repeat bg-center;
   }
+}
