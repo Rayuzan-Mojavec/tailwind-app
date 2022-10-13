@@ -9,7 +9,7 @@
                 <i class=" text-[#1778f2] bi bi-facebook  text-2xl"></i>
             </a>
             <a href="https://www.instagram.com/rayuzan_m/" class="mx-3" target="_blank">
-                <i class="bi bi-instagram  transition text-black dark:text-white text-2xl"></i>
+                <i class="bi bi-instagram duration-500 transition text-black dark:text-white text-2xl"></i>
             </a>
             <a href="https://twitter.com/Rayuzan_M" class="mx-3" target="_blank">
                 <i  class="bi-twitter bi text-[#1DA1F2]   rounded text-2xl"></i>
@@ -24,7 +24,7 @@
                 <i class="bi bi-discord text-[#7289DA]   rounded text-2xl"></i>
             </a>
             <a href="https://steamcommunity.com/profiles/76561198828589517/" class="mx-3" target="_blank">
-                <i class="bi bi-steam    text-black  transition   text-2xl"></i>
+                <i class="bi bi-steam    text-black  transition duration-500 dark:text-white text-2xl"></i>
             <a href="https://www.twitch.tv/rayuzanm" class="mx-3" target="_blank">
                 <i class="bi bi-twitch text-[#9146FF] transition   text-2xl"></i>
             </a>
