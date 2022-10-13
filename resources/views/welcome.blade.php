@@ -155,11 +155,13 @@
 
     <div class="mx-auto container my-16 px-8">
         <div
-            class="group rounded-3xl border-4 border-slate-700 overflow-hidden dark:text-white dark:border-white dark:shadow-2xl">
+            class="group rounded-3xl border-4 border-slate-700 overflow-hidden  dark:border-white dark:shadow-2xl transition duration-500">
 
-            <img src="https://static.republika.co.id/uploads/images/inpicture_slide/kota-tripoli-_120903125657-131.jpg"
-                alt="" class="rounded-3xl w-full p-10">
-            <article class="py-7 px-7 prose prose-lg max-w-none text-black">
+            <div class="flex justify-center rounded-3xl overflow-hidden m-10 w-auto">
+                <img src="{{ url('https://static.republika.co.id/uploads/images/inpicture_slide/kota-tripoli-_120903125657-131.jpg') }}"
+                    alt="" class="flex object-cover justify-center items-center">
+            </div>
+            <article class="py-7 px-7 prose prose-lg max-w-none dark:prose-h1:text-white prose-h1:transition prose-h1:duration-500 text-black dark:text-white transition duration-500">
                 <h1 class="mb-5 pb-5 font-bold">Ningenisasi</h1>
 
                 <div>
