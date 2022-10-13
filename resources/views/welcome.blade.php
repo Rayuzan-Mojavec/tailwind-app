@@ -7,7 +7,7 @@
     <div class="container mx-auto flex mt-32 justify-center items-center">
         <div class="flex justify-center">
             <span
-                class=" text-6xl text-center font-bold bg-gradient-to-r from-blue-900 via-green-600 to-yellow-300 bg-clip-text text-transparent dark:text-gray-300 py-3">
+                class=" text-6xl text-center font-bold bg-gradient-to-r from-blue-900 via-green-600 to-yellow-300 bg-clip-text text-transparent dark:text-gray-300 py-3 transition duration-500">
                 Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich
             </span>
         </div>
@@ -15,12 +15,12 @@
 
     <div class="flex justify-center mt-20">
         <a href="https://en.wikipedia.org/wiki/Shia_Islam"
-            class="text-yellow-400 py-2 px-5 focus:ring-yellow-400 focus:ring place-content-center block rounded-full bg-black hover:bg-yellow-400 hover:text-black  m-6">Demi
+            class="text-yellow-400 py-2 px-5 focus:ring-yellow-400 focus:ring place-content-center block rounded-full bg-black hover:bg-yellow-400 hover:text-black  m-6 transition">Demi
             Ali, Demi Husayn</a>
     </div>
 
     <div class="transition-all h-auto text-center items-center max-w-7xl mx-auto mb-28 bg-[#EB2854] hover:bg-sky-500 p-5 block justify-center border-8 border-black rounded-2xl group">
-        <span class="text-4xl text-white py-3 text-center selection:bg-blue-800 selection:text-white invisible group-hover:visible group-hover:text-black group-hover:blur-none font-serif first-letter:text-8xl first-letter:font-bold">
+        <span class="transition duration-500 text-4xl py-3 text-center selection:bg-blue-800 selection:text-white invisible group-hover:visible text-black group-hover:blur-none font-serif first-letter:text-8xl first-letter:font-bold">
             Wieniläinen siouxia puhuva ökyzombi diggaa Åsan roquefort-tacoja</span>
     </div>
 
@@ -162,7 +162,7 @@
             <div class="py-7 px-7">
                 <div class="text-6xl font-bold mb-5 pb-5">Ningenisasi</div>
 
-                <p class="text-small whitespace-pre-line">
+                <p class="text-small">
 
                     In the name of the African Union, I would like to greet the members of the General Assembly of the United Nations, and I hope that this meeting will be among the most historic in the history of the world.
 
@@ -405,6 +405,24 @@
         </div>
     </div>
 
-
+    <div class="my-64 flex justify-center items-center">
+        <div class="grid grid-cols-2 gap-2">
+            <div class="bg-[#F25022] dark:bg-white transition duration-500 w-24 h-24">
+                
+            </div>
+            <div class="bg-[#7FBA00] dark:bg-white transition duration-500 w-24 h-24">
+                
+            </div>
+            <div class="bg-[#00A4EF] dark:bg-white transition duration-500 w-24 h-24">
+                
+            </div>
+            <div class="bg-[#FFB900] dark:bg-white transition duration-500 w-24 h-24">
+                
+            </div>
+        </div>
+        <div class="ml-10">
+            <h1 class="font-semibold text-9xl text-[#737373] dark:text-white transition duration-500">Microsoft</h1>
+        </div>
+    </div>
 
 @endsection
