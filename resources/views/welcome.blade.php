@@ -54,16 +54,11 @@
     </div>
 
     <div class="flex justify-center mx-auto my-48 container-sm dark:text-white max-w-7xl">
-        <article class="prose prose-lg max-w-none text-black border p-10 shadow-xl group dark:shadow-none rounded">
+        <div class="prose prose-lg prose-stone max-w-none dark:prose-invert prose-h1:transition prose-h1:duration-500 transition duration-500 border p-10 shadow-xl group dark:shadow-none rounded">
 
-            <h1 class="text-center font-bold">Muammar
-                Gaddafi</h1>
-
-
+            <h1 class="text-center font-bold">Muammar Gaddafi</h1>
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg" alt=""
                 width="170" class="float-left mr-3 mt-5 group-hover:animate-pulse">
-
-
             <p>Muammar Muhammad Abu Minyar al-Gaddafi[b] (Arabic: مُعمّر محمد عبد
                 السلام القذّافي,
                 c. 1942 – 20 October
@@ -73,9 +68,7 @@
                 Initially ideologically committed to Arab nationalism and Arab socialism, he later ruled according to
                 his own Third International Theory.</p>
 
-            <p> Born near Sirte, Italian Libya, to a poor Bedouin family, Gaddafi
-                became an Arab
-                nationalist while at
+            <p> Born near Sirte, Italian Libya, to a poor Bedouin family, Gaddafi became an Arab nationalist while at
                 school in Sabha, later enrolling in the Royal Military Academy, Benghazi. Within the military, he
                 founded a revolutionary group which deposed the Western-backed Senussi monarchy of Idris in a 1969 coup.
                 Having taken power, Gaddafi converted Libya into a republic governed by his Revolutionary Command
@@ -88,7 +81,7 @@
                 "Popular Revolution" with the formation of Basic People's Congresses, presented as a system of direct
                 democracy, but retained personal control over major decisions. He outlined his Third International
                 Theory that year in The Green Book.</p>
-        </article>
+        </div>
 
     </div>
 
@@ -161,7 +154,8 @@
                 <img src="{{ url('https://static.republika.co.id/uploads/images/inpicture_slide/kota-tripoli-_120903125657-131.jpg') }}"
                     alt="" class="flex object-cover justify-center items-center">
             </div>
-            <article class="py-7 px-7 prose prose-lg max-w-none dark:prose-h1:text-white prose-h1:transition prose-h1:duration-500 text-black dark:text-white transition duration-500">
+            <article
+                class="py-7 px-7 prose prose-lg max-w-none dark:prose-h1:text-white prose-h1:transition prose-h1:duration-500 text-black dark:text-white transition duration-500">
                 <h1 class="mb-5 pb-5 font-bold">Ningenisasi</h1>
 
                 <div>
