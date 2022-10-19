@@ -21,13 +21,25 @@ class People extends Model
     protected $keyType = 'string';
     public $casts = ['birth_date'];
 
-    public function date() {
+    public function scopeFilter($query, array $filters)
+    {
+        $query->when($filters['search'] ?? false, function ($query, $search) {
+            return $query->where(function ($query) use ($search) {
+                $query->where('namae', 'like', '%' . $search .  '%')
+                    ->orWhere('ssn', 'like', '%' . $search .  '%');
+            });
+        });
+    }
+
+    public function date()
+    {
 
         Date::setLocale('id');
         return Date::parse($this->attributes['birth_date'])->format('d F Y');
     }
 
-    public function age() {
+    public function age()
+    {
 
         return Carbon::parse($this->attributes['birth_date'])->age;
     }
