@@ -33,14 +33,12 @@ class People extends Model
 
     public function date()
     {
-
         Date::setLocale('id');
         return Date::parse($this->attributes['birth_date'])->format('d F Y');
     }
 
     public function age()
     {
-
         return Carbon::parse($this->attributes['birth_date'])->age;
     }
 }

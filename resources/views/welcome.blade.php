@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <div class="flex justify-center mx-auto my-48 container-sm dark:text-white max-w-7xl">
+    <div class="flex justify-center mx-auto my-48 container dark:text-white max-w-7xl">
         <div class="prose prose-lg prose-stone max-w-none dark:prose-invert prose-h1:transition prose-h1:duration-500 transition duration-500 border p-10 shadow-xl group dark:shadow-none rounded">
 
             <h1 class="text-center font-bold">Muammar Gaddafi</h1>
@@ -158,7 +158,7 @@
                 class="py-7 px-7 prose prose-lg max-w-none dark:prose-h1:text-white prose-h1:transition prose-h1:duration-500 text-black dark:text-white transition duration-500">
                 <h1 class="mb-5 pb-5 font-bold">Ningenisasi</h1>
 
-                <div>
+                <div class="indent-16">
 
                     <p>In the name of the African Union, I would like to greet the members of the General Assembly of the
                         United Nations, and I hope that this meeting will be among the most historic in the history of the

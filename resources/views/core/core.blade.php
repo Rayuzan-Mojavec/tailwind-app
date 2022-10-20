@@ -11,8 +11,8 @@
 
     <link rel="icon" href="{{ asset('yeh.webp') }}">
 
-    <script src="{{ url('https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js') }}"></script>
-    <script src="{{ asset('js/Jquery.js') }}"></script>
+    <script src="{{ url('https://cdn.ckeditor.com/ckeditor5/35.2.0/classic/ckeditor.js') }}"></script>
+
     <script src="{{ asset('js/Icon.js') }}"></script>
 
 
