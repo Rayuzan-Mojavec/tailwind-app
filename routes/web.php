@@ -22,4 +22,4 @@ Route::get('/about', function () {
     return view('about' , ['title' => "About"]);
 });
 
-Route::resource('/tables',PeopleController::class);
+Route::resource('/tables', PeopleController::class);

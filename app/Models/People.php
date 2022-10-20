@@ -12,7 +12,6 @@ class People extends Model
     use HasFactory;
 
     public $table = "people";
-    protected $primaryKey = 'ssn';
     protected $fillable = [
         'ssn', 'namae', 'address', 'birth_date', 'gender', 'rerijyon'
     ];

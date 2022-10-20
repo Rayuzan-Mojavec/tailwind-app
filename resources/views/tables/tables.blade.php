@@ -30,10 +30,8 @@
                             <tr class="border">
                                 <td class="py-4 px-6 border">{{ $person->ssn }}</td>
                                 <td class="py-4 px-6 border">{{ $person->namae }}</td>
-                                <td class="py-4 px-6 border">
-                                    <a class="p-5" href="{{ route('tables.edit', $person->ssn) }}">
-                                        Edit
-                                    </a>
+                                <td class="py-4 px-6 border">{{ $person->gender }}
+
                                 </td>
                                 <td class="py-4 px-6 border">{{ $person->rerijyon }}</td>
                                 <td class="py-4 px-6 border">{{ $person->address }}</td>
